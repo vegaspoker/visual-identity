@@ -1,3 +1,0 @@
-# visual-identity
-
-Poker Vegas
